@@ -29,6 +29,14 @@ PCB
 
 ------
 
+## 3D Printing
+
+Print the parts in their orientation in the STL file with supports.
+
+Choose the corresponding big side of the shell for input or output.
+
+------
+
 ## Assembly
 
 Clean up all the edges of the PCB, as there is no extra space inside the shell for any imperfection on the PCB.

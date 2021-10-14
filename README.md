@@ -1,10 +1,9 @@
 # gscartsw2VGA
+A VGA adapter for the gscartsw
 
 <img src="./Pics/01.jpg" width="400px" />
 <img src="./Pics/02.jpg" width="400px" />
 <img src="./Pics/03.jpg" width="400px" />
-
-A VGA adapter for the gscartsw
 
 This adapter converts the SCART ports on the gscartsw into D-Sub HD15 ports that accepts RGBS video signal as awell as stereo audio. This is a link among my series of VGA dongles to deal with various consoles and video switches using the RGBS video signal.
 
@@ -14,19 +13,19 @@ The adapter consists of, as simple as, a D-Sub HD15 port, a piece of PCB, a SCAR
 
 ## Parts
 
-- D-Sub HD15 VGA port femal slim
-https://www.aliexpress.com/item/4000596805684.html
+D-Sub HD15 VGA port femal slim
+- https://www.aliexpress.com/item/4000596805684.html
 
-- SCART Male Plug
-https://www.aliexpress.com/item/4000577027139.html
+SCART Male Plug
+- https://www.aliexpress.com/item/4000577027139.html
 
-- [2x]M3x16mm, [1x]M3x8mm Hex Screws and Nuts
-https://www.amazon.com/gp/product/B014OO5KQG
+[2x]M3x16mm, [1x]M3x8mm Hex Screws and Nuts
+- https://www.amazon.com/gp/product/B014OO5KQG
 
-- PCB
-https://oshpark.com/shared_projects/yMTYkeBh
+PCB
+- https://oshpark.com/shared_projects/yMTYkeBh
 
-- 3D Printed Shell
+3D Printed Shell
 
 ------
 

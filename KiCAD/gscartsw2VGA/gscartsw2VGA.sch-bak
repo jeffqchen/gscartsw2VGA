@@ -45,7 +45,7 @@ U 1 1 613DFA20
 P 6300 2150
 F 0 "JP3" V 6254 2218 50  0000 L CNN
 F 1 "SolderJumper_3_Open" V 6345 2218 50  0000 L CNN
-F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 6300 2150 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels" H 6300 2150 50  0001 C CNN
 F 3 "~" H 6300 2150 50  0001 C CNN
 	1    6300 2150
 	0    1    1    0   
@@ -56,7 +56,7 @@ U 1 1 613E1BB7
 P 6300 3050
 F 0 "JP2" V 6254 3118 50  0000 L CNN
 F 1 "SolderJumper_3_Open" V 6345 3118 50  0000 L CNN
-F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 6300 3050 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels" H 6300 3050 50  0001 C CNN
 F 3 "~" H 6300 3050 50  0001 C CNN
 	1    6300 3050
 	0    1    1    0   
@@ -67,7 +67,7 @@ U 1 1 613E329E
 P 6250 5250
 F 0 "JP1" V 6204 5318 50  0000 L CNN
 F 1 "SolderJumper_3_Open" V 6295 5318 50  0000 L CNN
-F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 6250 5250 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels" H 6250 5250 50  0001 C CNN
 F 3 "~" H 6250 5250 50  0001 C CNN
 	1    6250 5250
 	0    1    1    0   

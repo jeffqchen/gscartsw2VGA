@@ -23,7 +23,7 @@ SCART Male Plug
 - https://www.amazon.com/gp/product/B014OO5KQG
 
 PCB
-- https://oshpark.com/shared_projects/yMTYkeBh
+- https://oshpark.com/shared_projects/UT8RVECU
 
 3D Printed Shell
 

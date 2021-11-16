@@ -5,7 +5,7 @@ A VGA adapter for the gscartsw
 <img src="./Pics/02.jpg" width="400px" />
 <img src="./Pics/03.jpg" width="400px" />
 
-This adapter converts the SCART ports on the gscartsw into D-Sub HD15 ports that accepts RGBS video signal as awell as stereo audio. This is a link among my series of VGA dongles to deal with various consoles and video switches using the RGBS video signal.
+This adapter converts the SCART ports on the gscartsw into D-Sub HD15 ports that accepts RGBS video signal as well as stereo audio. This is a link among my [series of VGA dongles](https://github.com/jeffqchen/Console-VGA-Dongle-Series) to deal with various consoles and video switches using the RGBS video signal.
 
 The adapter consists of, as simple as, a D-Sub HD15 port, a piece of PCB, a SCART male plug, and 3D printed shells.
 

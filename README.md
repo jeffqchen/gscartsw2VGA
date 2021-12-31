@@ -61,11 +61,7 @@ Finally, put the VGA face panel back onto the internal assembly, and fit the ass
 
 ## Fitment Onto the gscartsw
 
-Hook the curvy end of the adapter onto the edge of the acrylic panel. Align the SCART plug with one of the female SCART port on the switch. Then slightly pry the flap on the other end outwards with your index finger, so the hook on that side can safely pass the acrylic panel. Press the adapter flat and then let go. It will be on there securely.
+Hook the curvy end of the adapter onto the edge of the acrylic panel. Align the SCART plug with one of the female SCART port on the switch. Then slightly pry the flap on the other end outwards with your index finger, so the hook on that side can safely pass the acrylic panel. Press the adapter flat and then let go.
 
-<img src="./Pics/04.jpg" width="200px" />
-<img src="./Pics/05.jpg" width="200px" />
-<img src="./Pics/06.jpg" width="200px" />
-<img src="./Pics/07.jpg" width="200px" />
-<img src="./Pics/08.jpg" width="200px" />
-<img src="./Pics/09.jpg" width="200px" />
+<img src="./Pics/04.jpg" width="200px" /> <img src="./Pics/05.jpg" width="200px" /> <img src="./Pics/06.jpg" width="200px" />
+<img src="./Pics/07.jpg" width="200px" /> <img src="./Pics/08.jpg" width="200px" /> <img src="./Pics/09.jpg" width="200px" />

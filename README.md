@@ -13,17 +13,15 @@ The adapter consists of, as simple as, a D-Sub HD15 port, a piece of PCB, a SCAR
 
 ## Parts
 
-D-Sub HD15 VGA port femal slim
-- https://www.aliexpress.com/item/4000596805684.html
+- [PCB](https://oshpark.com/shared_projects/UT8RVECU)
 
-SCART Male Plug
-- https://www.aliexpress.com/item/4000577027139.html
+- VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
-[2x]M3x16mm, [1x]M3x8mm Hex Screws and Nuts
-- https://www.amazon.com/gp/product/B014OO5KQG
+- SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
 
-PCB
-- https://oshpark.com/shared_projects/UT8RVECU
+- [2x]M3x16mm, [1x]M3x8mm Hex Screws and Nuts - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
+
+
 
 3D Printed Shell
 

@@ -15,7 +15,7 @@ The adapter consists of, as simple as, a D-Sub HD15 port, a piece of PCB, a SCAR
 
 - [PCB](https://oshpark.com/shared_projects/UT8RVECU)
 
-- VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
+- VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 
 - SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
 

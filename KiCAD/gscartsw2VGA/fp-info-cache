@@ -1,4 +1,4 @@
-304795540951200
+311161395161628
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -702,28 +702,28 @@ trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Librar
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
-solder jumper open
+net tie solder jumper bridged
 0
 2
 2
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
-solder jumper open
+net tie solder jumper bridged
 0
 2
 2
 Jumper
 SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 2
 2
 Jumper
 SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 2
 2
@@ -751,56 +751,56 @@ solder jumper open
 Jumper
 SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm
 SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
 SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
